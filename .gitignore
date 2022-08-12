@@ -1,0 +1,33 @@
+
+
+# dependencies
+front-end/node_modules
+backend-end/node_modules
+front-end/.pnp
+.pnp.js
+
+# testing
+front-end/coverage
+
+# next.js
+front-end/.next/
+front-end/out/
+
+# production
+front-end/build
+
+# misc
+front-end/.DS_Store
+*.pem
+
+# debug
+front-end/npm-debug.log*
+front-end/yarn-debug.log*
+front-end/yarn-error.log*
+front-end/.pnpm-debug.log*
+
+# local env files
+front-end/.env*.local
+
+# vercel
+front-end/.vercel
