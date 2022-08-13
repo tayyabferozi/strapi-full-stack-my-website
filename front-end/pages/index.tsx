@@ -1,5 +1,5 @@
 import type { NextPage } from "next";
-import "bootstrap";
+// import "bootstrap";
 
 import Footer from "../layouts/Footer";
 import Navbar from "../layouts/Navbar";
