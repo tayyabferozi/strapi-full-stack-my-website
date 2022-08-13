@@ -1,6 +1,7 @@
 import type { NextPage } from "next";
-import Footer from "../layouts/Footer";
+import "bootstrap";
 
+import Footer from "../layouts/Footer";
 import Navbar from "../layouts/Navbar";
 import AboutUs from "./partials/AboutUs";
 import Features from "./partials/Features";
